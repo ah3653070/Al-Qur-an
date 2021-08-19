@@ -25,7 +25,7 @@ Semoga bisa mengurangi dosa - dosa hamba
 # DEPLOY
 
 <b>
-<a href="https://heroku.com/deploy?template=https://github.com/kenkannih/Al-Qur-an"><img src="https://img.shields.io/badge/BIKIN CUK DI HEROKU-brown?style=badge&logo=heroku"width="310" height="50"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/ah3653070/Al-Qur-an"><img src="https://img.shields.io/badge/BIKIN CUK DI HEROKU-brown?style=badge&logo=heroku"width="310" height="50"/></a>
 </b>
 
 ### TEMUKAN KAMI DI TELEGRAM
